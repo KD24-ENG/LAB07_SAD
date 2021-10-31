@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6945ab8-415d-49d4-ad0d-12ec4a21f23e" name="Changes" comment="" />
+    <list default="true" id="e6945ab8-415d-49d4-ad0d-12ec4a21f23e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/Book$Metadata.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/Book$Metadata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/BookCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/BookCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/BookMetadataExporter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/BookMetadataExporter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/BookMetadataFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/BookMetadataFormatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/BookMetadataFormatterFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/BookMetadataFormatterFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/BookMetadataFormatterFactory$Format.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/BookMetadataFormatterFactory$Format.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/BookMetadataFormatterFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/BookMetadataFormatterFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/CSVBookMetadataExporter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/CSVBookMetadataExporter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/CSVBookMetadataFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/CSVBookMetadataFormatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/JSONBookMetadataExporter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/JSONBookMetadataExporter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/JSONBookMetadataFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/JSONBookMetadataFormatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/TestData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/XMLBookMetadataExporter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/XMLBookMetadataExporter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creational/XMLBookMetadataFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creational/XMLBookMetadataFormatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,8 +56,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.XMLBookMetadataFormatterTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="creational.Main" />
       <module name="SoftArchDesign.main" />
       <extension name="coverage">
@@ -42,6 +72,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CSVBookMetadataFormatterTest" type="JUnit" factoryName="JUnit">
+      <module name="SoftArchDesign.test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="MAIN_CLASS_NAME" value="CSVBookMetadataFormatterTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSONBookMetadataFormatterTest" type="JUnit" factoryName="JUnit">
+      <module name="SoftArchDesign.test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JSONBookMetadataFormatterTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XMLBookMetadataFormatterTest" type="JUnit" factoryName="JUnit">
+      <module name="SoftArchDesign.test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="XMLBookMetadataFormatterTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.CSVBookMetadataFormatterTest" />
+      <item itemvalue="JUnit.JSONBookMetadataFormatterTest" />
+      <item itemvalue="JUnit.XMLBookMetadataFormatterTest" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
